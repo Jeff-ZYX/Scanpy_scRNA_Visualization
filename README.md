@@ -4,9 +4,13 @@ Written for [NYU Master in Biomedical Informatics - Intro to Python] Final Proje
 
 By:
 Jeff Zhang
+
 Helena Jun
+
 Divya Mandalaywala
+
 Zhang Yu
+
 
 The Github repository aims to replicate R processing of data in the following paper with Scanpy:
 https://link.springer.com/content/pdf/10.1007/s11684-020-0754-0.pdf
