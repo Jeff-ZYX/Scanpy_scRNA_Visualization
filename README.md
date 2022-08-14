@@ -6,7 +6,7 @@ By:
 - Jeff Zhang
 - Helena Jun
 - Divya Mandalaywala
- -Zhang Yu
+- Zhang Yu
 
 
 The Github repository aims to replicate R processing of data in the following paper with Scanpy:
