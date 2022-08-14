@@ -16,5 +16,8 @@ The functions aim to provide a way a reuseable way to process and visualize scRN
 
 Packages used can be found on "requirements.txt" and can be loaded via pip
 
+"main_complete.ipyb" provides a notebook file for sequential code
+"main_python.py" provides a python file of "main_complete.ipynb"
+
 Explanations of Functions:
 -TBA-
