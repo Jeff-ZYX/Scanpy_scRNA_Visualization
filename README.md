@@ -13,11 +13,11 @@ The Github repository aims to replicate R processing of data in the following pa
 https://link.springer.com/content/pdf/10.1007/s11684-020-0754-0.pdf
 
 The functions aim to provide a way a reuseable way to process and visualize scRNA data using Scanpy according to the requirements and parameters of the user.
-
+- "main_complete.ipyb" provides a notebook file for sequential code
+- "main_python.py" provides a python file of "main_complete.ipynb"
 Packages used can be found on "requirements.txt" and can be loaded via pip
 
-"main_complete.ipyb" provides a notebook file for sequential code
-"main_python.py" provides a python file of "main_complete.ipynb"
+
 
 Explanations of Functions:
 -TBA-
