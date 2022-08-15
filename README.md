@@ -20,5 +20,6 @@ The functions aim to provide a way a reuseable way to process and visualize scRN
 Packages used can be found on "requirements.txt" and can be loaded via pip
 
 
-Explanations of Functions:
--TBA-
+To Run Program Examples:
+- Install packages with "pip install -r requirements.txt"
+- Run all Cells in 
